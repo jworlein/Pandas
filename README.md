@@ -1,4 +1,4 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Pandas - Pandas, Pandas, Pandas
 
 ## Background
 
